@@ -9,7 +9,7 @@
 }
 
 body {
-    background: linear-gradient(175deg,rgb(255, 124, 17) 0%, rgba(255, 229, 0, 1) 100%);
+    background: linear-gradient(180deg, rgba(255, 115, 0, 1) 0%, rgba(255, 115, 0, 1) 30%, rgba(255, 178, 0, 1) 70%, rgba(255, 229, 0, 1) 100%);
 }
 
 nav {
@@ -172,7 +172,9 @@ nav {
 
 @media (max-width: 392px) {
 
-    .inicio-titulo, .historia-titulo, .contatos-titulo {
+    .inicio-titulo,
+    .historia-titulo,
+    .contatos-titulo {
         font-size: 1.3rem;
     }
 
@@ -190,9 +192,10 @@ nav {
     }
 
     .contatos-icon {
-    width: 22px;
-   
-}
+        width: 22px;
+
+    }
+
     .desenvolvido {
         font-size: 9px;
     }
