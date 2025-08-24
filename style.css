@@ -9,7 +9,7 @@
 }
 
 body {
-    background: linear-gradient(180deg, rgba(255, 115, 0, 1) 0%, rgba(255, 115, 0, 1) 30%, rgba(255, 178, 0, 1) 70%, rgba(255, 229, 0, 1) 100%);
+    background-color: rgb(255, 213, 0);
 }
 
 nav {
